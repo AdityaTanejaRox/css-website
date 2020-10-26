@@ -1,0 +1,148 @@
+body{
+  margin:0;
+  color: #40514E;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+  font-size: 1em;
+}
+h1{
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Sacramento';
+    /*line-height: 2;
+    /*<link rel="stylesheet"
+href="https://fonts.googleapis.com/css?family=Lobster">
+  /*width: 10%
+  margin:0 auto 0 auto;/*will align itself either centerally or vertically*/
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Monsterrat';
+  font-size: 2.5rem;
+  font-weight:normal;
+  padding-bottom: 10px;
+}
+h3{
+  color: #11999E;
+  font-family: 'Monsterrat';
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+a{
+  color: #11999E;
+  font-family: 'Monsterrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.mountain{
+  margin: 0 auto 100px auto;
+  right: 100px;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.middle-container{
+  padding-top: 100px;
+/*background-color: #E4F9F5;*/
+/*padding-bottom: 100px;*/
+}
+.bottom-container{
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+.pro{
+  color: #11999E;
+  text-decoration: underline;
+  margin:0 auto 0 auto;
+}
+.Intro{
+  width: 30%;
+  margin: auto;
+}
+.contact-me{
+  margin: 40px auto 60px;
+  width: 40%;
+}
+.copywrigth{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.p{
+  color: #11999E;
+  font-weight:normal;
+  margin: 0 auto 100px auto;
+}
+.top-cloud{
+  position: absolute;
+  margin: 50px 300px 50px 0;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 400px;
+}
+.skills{
+  width: 50%;
+  margin: auto;
+}
+.skill-row{
+text-align: left;
+width: 100%;
+margin: 100px auto 100px auto;
+
+}
+.skills-section{
+  float: right;
+  text-align: left;
+  width: 25%;
+  margin-top: 30px;
+  margin-left:30px;
+}
+.social-media{
+  float: left;
+  margin-top: 20px;
+  width: 25%;
+  margin-right:30px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Monsterrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
