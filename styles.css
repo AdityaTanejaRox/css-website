@@ -87,11 +87,11 @@ padding: 50px 0 20px;
   font-weight:normal;
   margin: 0 auto 100px auto;
 }
-.top-cloud{
+/*.top-cloud{
   position: absolute;
   margin: 50px 300px 50px 0;
   top: 50px;
-}
+}*/
 .bottom-cloud{
   position: absolute;
   left: 100px;
@@ -99,12 +99,13 @@ padding: 50px 0 20px;
 }
 .middle-cloud{
   position: absolute;
-  left: 370px;
+  left: 420px;
   bottom: 550px;
 }
 .middle2-cloud{
  position: absolute;
   left: 750px;
+  bottom: 600px;
 }
 .skills{
   width: 50%;
