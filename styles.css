@@ -85,7 +85,7 @@ padding: 50px 0 20px;
 .p{
   color: #11999E;
   font-weight:normal;
-  margin: 0 auto 100px auto;
+  margin: 0 auto 150px auto;
 }
 .top-cloud{
   position: absolute;
@@ -94,8 +94,17 @@ padding: 50px 0 20px;
 }
 .bottom-cloud{
   position: absolute;
-  left: 250px;
+  left: 200px;
   bottom: 400px;
+}
+.middle-cloud{
+  position: absolute;
+  left: 370px;
+  bottom: 500px;
+}
+.middle2-cloud{
+ position: absolute;
+  left: 600px;
 }
 .skills{
   width: 50%;
