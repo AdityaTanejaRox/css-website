@@ -46,7 +46,7 @@ a:hover{
   color: #EAF6F6;
 }
 .mountain{
-  margin: 250px auto 100px auto;
+  margin: 250px auto 0 auto;
   right: 100px;
 }
 .top-container{
@@ -104,8 +104,8 @@ padding: 50px 0 20px;
 }
 .middle2-cloud{
  position: absolute;
-  left: 750px;
-  bottom: 600px;
+  left: 740px;
+  bottom: 4750px;
 }
 .skills{
   width: 50%;
